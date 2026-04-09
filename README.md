@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Matias Rios</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Matias Rios</b> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,11 +8,11 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About Me**
+## 👤 **About Me**
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
-</picture>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
 
 - 🚀 **Full-Stack Developer** especializado en desarrollo Web & Mobile  
 - 🛡️ **Cybersecurity Junior** enfocado en seguridad y buenas prácticas  
@@ -21,6 +21,7 @@
 - 📱 Experiencia en desarrollo de apps híbridas  
 - 📫 Abierto a **prácticas profesionales o trabajo**
 
+---
 ---
 
 ## 🛠️ Tech Stack
