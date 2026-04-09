@@ -53,17 +53,17 @@
 
 <p align="center">
   <a href="https://github.com/Matias-Rios27/gametrack-frontend">
-    <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" alt="GameTrack" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Matias-Rios27/gestor-tareas">
-    <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" alt="Gestor Tareas" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight&cache_seconds=1800" />
   </a>
   <br />
   <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
-    <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" alt="MiniPOS" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Matias-Rios27/crazy-gacha">
-    <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" alt="Crazy Gacha" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api?username=Matias-Rios27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450" alt="Stats" />
-  <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&theme=tokyonight&layout=compact" width="375" alt="Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matias-Rios27&show_icons=true&theme=tokyonight&include_all_commits=true" width="450"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&theme=tokyonight&layout=compact" width="375"/>
 </div>
 
 ---
