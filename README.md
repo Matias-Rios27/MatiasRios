@@ -53,14 +53,18 @@
 
 <p align="center">
   <a href="https://github.com/Matias-Rios27/gametrack-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" />
   </a>
   <a href="https://github.com/Matias-Rios27/gestor-tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" />
   </a>
-  <br />
+</p>
+<p align="center">
   <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Matias-Rios27/crazy-gacha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" />
   </a>
 </p>
 
@@ -86,7 +90,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false&margin-w=4" />
+  </a>
 </p>
 
 ---
