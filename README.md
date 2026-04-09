@@ -82,7 +82,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-bg=true&column=4" alt="Matias Trophies" />
+  <img src="https://img.shields.io/badge/Status-Actively_Coding-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity-blue?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Goal-Full_Stack_Expert-success?style=for-the-badge" />
 </p>
 
 ---
