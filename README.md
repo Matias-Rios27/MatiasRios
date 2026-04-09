@@ -52,19 +52,19 @@
 ## 📌 Projects
 
 <a href="https://github.com/Matias-Rios27/gametrack-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" />
 </a>
 
-<a href="(https://github.com/Matias-Rios27/gestor-tareas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+<a href="https://github.com/Matias-Rios27/gestor-tareas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Matias-Rios27/crazy-gacha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" />
 </a>
 
 ---
@@ -74,7 +74,7 @@
 <div align="center">
 
 <a href="https://github.com/Matias-Rios27">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matias-Rios27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
 </a>
