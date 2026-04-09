@@ -51,11 +51,19 @@
 
 ## 📌 Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/Matias-Rios27/gametrack-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="(https://github.com/Matias-Rios27/gestor-tareas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Matias-Rios27/crazy-gacha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
 </a>
 
@@ -65,10 +73,10 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USER">
+<a href="https://github.com/Matias-Rios27">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USER&show_icons=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
 </a>
 
 </div>
@@ -78,7 +86,7 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USER&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Matias-Rios27&theme=react-dark" />
 </p>
 
 ---
@@ -86,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USER&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
