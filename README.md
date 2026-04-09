@@ -51,22 +51,14 @@
 
 ## 📌 Projects
 
-<p align="center">
-  <a href="https://github.com/Matias-Rios27/gametrack-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Matias-Rios27/gestor-tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Matias-Rios27/crazy-gacha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GameTrack Frontend](https://github.com/Matias-Rios27/gametrack-frontend)** | Plataforma para seguimiento de videojuegos. | `NextJS` `Firebase` |
+| **[Gestor de Tareas](https://github.com/Matias-Rios27/gestor-tareas)** | Aplicación de productividad y organización. | `React Native` `Supabase` |
+| **[MiniPOS](https://github.com/Matias-Rios27/minipos-primerproyecto)** | Sistema de punto de venta básico. | `NextJS` `NeonTech` |
+| **[Crazy Gacha](https://github.com/Matias-Rios27/crazy-gacha)** | Simulador de sistema gacha. | `NextJS` |
+
+---
 
 ---
 
@@ -90,9 +82,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false&margin-w=4" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-bg=true&column=4" alt="Matias Trophies" />
 </p>
 
 ---
