@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 ### 🚀 Frameworks & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,40 +45,34 @@
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</p>
+</div>
 
 ---
 
 ## 📌 Projects
 
-<a href="https://github.com/Matias-Rios27/gametrack-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Matias-Rios27/gestor-tareas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Matias-Rios27/crazy-gacha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/Matias-Rios27/gametrack-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gametrack-frontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Matias-Rios27/gestor-tareas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=gestor-tareas&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Matias-Rios27/crazy-gacha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Matias-Rios27">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matias-Rios27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Matias-Rios27&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matias-Rios27&show_icons=true&theme=tokyonight&layout=compact" width="375"/>
 </div>
 
 ---
@@ -86,7 +80,7 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Matias-Rios27&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matias-Rios27&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -94,15 +88,21 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matias-Rios27&theme=tokyonight&no-frame=false" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/matias-rios-554516293)
-- 📧 [Gmail](mailto:matias.programming360@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matias-rios-554516293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matias.programming360@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -112,4 +112,6 @@
 
 ---
 
-*Last Edited on: 02/04/2026*
+<p align="right">
+  <i>Last Edited on: 02/04/2026</i>
+</p>
