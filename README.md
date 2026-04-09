@@ -62,9 +62,6 @@
   <a href="https://github.com/Matias-Rios27/minipos-primerproyecto">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=minipos-primerproyecto&theme=tokyonight&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/Matias-Rios27/crazy-gacha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matias-Rios27&repo=crazy-gacha&theme=tokyonight&cache_seconds=1800" />
-  </a>
 </p>
 
 ---
